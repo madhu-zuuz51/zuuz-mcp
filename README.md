@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" alt="ZUUZ" width="160"></p>
+
 # ZUUZ AI CRM MCP Server
 
 Find deals and follow-ups hiding in your email that never made it into your CRM.
