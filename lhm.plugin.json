@@ -5,6 +5,7 @@
   "description": "Find deals and follow-ups hiding in your email that never made it into your CRM.",
   "author": "ZUUZ",
   "homepage": "https://zuuz.ai",
+  "icon": "https://raw.githubusercontent.com/madhu-zuuz51/zuuz-mcp/main/logo.png",
   "cloudEndpoint": "https://mcp.zuuz.ai/mcp",
   "tags": ["crm", "sales", "email", "leads", "pipeline", "prospecting"]
 }
