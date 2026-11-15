@@ -1,4 +1,4 @@
-# ZUUZ MCP Server
+# ZUUZ AI CRM MCP Server
 
 Find deals and follow-ups hiding in your email that never made it into your CRM.
 
@@ -34,6 +34,6 @@ Add it to any MCP client that supports remote servers:
 ## Listings
 
 - Official MCP Registry: `ai.zuuz/zuuz`
-- LobeHub: `zuuz`
+- LobeHub: [madhu-zuuz51-zuuz-mcp](https://lobehub.com/mcp/madhu-zuuz51-zuuz-mcp)
 
 This repository holds listing metadata only. The server itself is hosted by ZUUZ.
